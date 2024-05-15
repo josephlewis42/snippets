@@ -11,6 +11,10 @@ Tiny bits of one-off code that aren't big enough to fit elsewhere. Licensed unde
 * [Google AIY Voice Kit White Nosie Machine](aiy_white_noise_machine/)
 * [Poor Man's ATX Benchtop Power Supply](poor_mans_atx_benchtop_power_supply) Eagle files for a board that breaks out power from an ATX PSU.
 
+## 3D Models
+
+* [Tandy 102 Battery Door](tandy_102_battery_door/)
+
 ## Proof of Concepts
 
 * `privacy_preserving_obdii_processor` - An application does real-time processing to look for unsafe driving and records those
