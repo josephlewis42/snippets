@@ -3,6 +3,10 @@
 Helps you export a phpBB thread's text and images as a single HTML page so it can
 be archived or turned into a PDF.
 
+## Installation
+
+Download this folder and install the dependencies: `pip install -f requirements.txt`
+
 ## Usage
 
 1. Find the URL of the thread to download, this is the first parameter.
