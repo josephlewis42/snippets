@@ -1,6 +1,6 @@
 # snippets
 
-Tiny bits of one-off code that aren't big enough to fit elsewhere.
+Tiny bits of one-off code that aren't big enough to fit elsewhere. Licensed under the MIT license unless specified elsewhere.
 
 ## Utilities
 
@@ -9,6 +9,7 @@ Tiny bits of one-off code that aren't big enough to fit elsewhere.
 ## Hardware
 
 * [Google AIY Voice Kit White Nosie Machine](aiy_white_noise_machine/)
+* [Poor Man's ATX Benchtop Power Supply](poor_mans_atx_benchtop_power_supply) Eagle files for a board that breaks out power from an ATX PSU.
 
 ## Proof of Concepts
 
