@@ -16,3 +16,7 @@ Tiny bits of one-off code that aren't big enough to fit elsewhere. Licensed unde
 * `privacy_preserving_obdii_processor` - An application does real-time processing to look for unsafe driving and records those
     events rather than full trip data which can expose trip destinations with a high degree
     of accuracy when overlaid on a road map.
+
+## Art
+
+* [Lawson 2048](lawson2048/) - A communal game of 2048 that used OpenCV to let players in a building lobby choose the next move by moving around.
